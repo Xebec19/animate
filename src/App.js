@@ -14,10 +14,6 @@ function App() {
           <Route exact path="/">
             <Home />
           </Route>
-          
-          <Route path="/dashboard">
-            <h1>Hello</h1>
-          </Route>
         </Switch>
       </Router>
   );
